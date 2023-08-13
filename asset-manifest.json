@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RestroReact/static/css/main.620d8d16.css",
+    "main.js": "/RestroReact/static/js/main.bd7adee9.js",
+    "static/media/meals.jpg": "/RestroReact/static/media/meals.6573ed857ea7cdd9a70e.jpg",
+    "index.html": "/RestroReact/index.html",
+    "main.620d8d16.css.map": "/RestroReact/static/css/main.620d8d16.css.map",
+    "main.bd7adee9.js.map": "/RestroReact/static/js/main.bd7adee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620d8d16.css",
+    "static/js/main.bd7adee9.js"
+  ]
+}
